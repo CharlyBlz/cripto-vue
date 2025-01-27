@@ -1,5 +1,28 @@
-# Vue 3 + Vite
+# cripto-vue
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## About 
+ - Application that consumes an external API to quote the current cost of various cryptocurrencies.
+ - Implementation of Vue.JS + Vite and CSS
+## Evidences
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+| Description | Screenshot |
+| --- | --- |
+| First look of page | ![image](https://github.com/CharlyBlz/cripto-vue/blob/6ecc3c7cbc82de268d34f6ab99f5bdc011be5247/cripto-vue_screenshot.png)|
+
+## Recommended IDE Setup
+ - Clone the repository
+```
+git clone https://github.com/CharlyBlz/cripto-vue
+```
+- Change directory
+```
+cd cripto vue
+```
+ - Execute next commnads
+```
+npm i
+npm run dev
+```
+
+## Page Link:
+[guitar-la](https://cripto-vue-three.vercel.app/)
